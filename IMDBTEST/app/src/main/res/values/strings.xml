@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Fragment names
+      !-->
+    <string name="fragment_upcomingmovies">UPCOMING</string>
+    <string name="fragment_topmovies">TOP</string>
+
+
+</resources>
